@@ -131,7 +131,8 @@
   </script>
 </head>
 <body>
-  <header>
+  <header "<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635047771308146"
+     crossorigin="anonymous"></script>">
     <div class="container" style="display:flex; align-items:center; justify-content:space-between; gap:16px">
       <div class="brand">
         <div class="logo">🍳</div>
@@ -234,8 +235,8 @@
     // CONFIG: AdSense + Images
     // =============================
     // Insert your AdSense IDs here (or set at runtime):
-    window.ADSENSE_CLIENT = "google.com, pub-2635047771308146, DIRECT, f08c47fec0942fa0" </script> ></script>  // e.g., ca-pub-1234567890123456
-    window.ADSENSE_SLOT   = "<meta name="google-adsense-account" content="ca-pub-2635047771308146">";   // e.g., 1234567890
+    window.ADSENSE_CLIENT = "" </script> ></script>  // e.g., ca-pub-1234567890123456
+    window.ADSENSE_SLOT   = "" // e.g., 1234567890
 
     // How many photos to show in the gallery:
     const PHOTO_COUNT = 9;
