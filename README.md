@@ -1,9 +1,9 @@
 # index.html-
 <!DOCTYPE html>
 <html lang="en">
-<head> "<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635047771308146"
-     crossorigin="anonymous"></script>"
-  <meta charset="utf-8"<meta name="google-adsense-account" content="ca-pub-2635047771308146">" />
+<head> ""><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635047771308146"
+     crossorigin="anonymous"></script> </script>"
+  <meta charset= />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>CookSmart – Ask for any recipe & get a step‑by‑step guide</title>
   <meta name="description" content="Type any dish you want to cook and get a clear, step‑by‑step guide, related videos, and mouth‑watering images. Fully responsive, fast, and SEO‑ready." />
