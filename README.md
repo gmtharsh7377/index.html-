@@ -498,5 +498,7 @@
       runSearch(qParam);
     }
   </script>
+  </script googlr AdSense code-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635047771308146"
+     crossorigin="anonymous"></script> 
 </body>
 </html>
