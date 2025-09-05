@@ -53,7 +53,8 @@
       color:var(--text);
       line-height:1.6;
     }
-    header{
+    header{"<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635047771308146"
+     crossorigin="anonymous"></script>"
       position:sticky; top:0; z-index:20; backdrop-filter: blur(10px);
       background: linear-gradient(180deg, rgba(17,24,39,.8), rgba(17,24,39,.4));
       border-bottom: 1px solid rgba(255,255,255,.06);
