@@ -234,7 +234,8 @@
     // CONFIG: AdSense + Images
     // =============================
     // Insert your AdSense IDs here (or set at runtime):
-    window.ADSENSE_CLIENT = "";   // e.g., ca-pub-1234567890123456
+    window.ADSENSE_CLIENT = "";script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635047771308146"
+     crossorigin="anonymous"></script>   // e.g., ca-pub-1234567890123456
     window.ADSENSE_SLOT   = "";   // e.g., 1234567890
 
     // How many photos to show in the gallery:
