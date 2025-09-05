@@ -1,7 +1,8 @@
 # index.html-
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> "<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635047771308146"
+     crossorigin="anonymous"></script>"
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>CookSmart – Ask for any recipe & get a step‑by‑step guide</title>
@@ -131,8 +132,7 @@
   </script>
 </head>
 <body>
-  <header "<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2635047771308146"
-     crossorigin="anonymous"></script>">
+  <header ></script>">
     <div class="container" style="display:flex; align-items:center; justify-content:space-between; gap:16px">
       <div class="brand">
         <div class="logo">🍳</div>
